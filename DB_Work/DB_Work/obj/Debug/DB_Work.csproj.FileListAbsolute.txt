@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\DB_Work\DB_Work\bin\Debug\DB_Work.exe.config
+C:\Users\Asus\source\repos\DB_Work\DB_Work\bin\Debug\DB_Work.exe
+C:\Users\Asus\source\repos\DB_Work\DB_Work\bin\Debug\DB_Work.pdb
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.Form1.resources
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.Properties.Resources.resources
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.exe
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.pdb
+C:\Users\Asus\source\repos\DB_Work\DB_Work\obj\Debug\DB_Work.Form2.resources
